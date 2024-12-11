@@ -1,6 +1,7 @@
-![Zero Hunger Logo](SS/logo.svg)
-
-# ✨ Zero Hunger ✨
+<div style="text-align: center;">
+  <img src="SS/logo.svg" alt="Zero Hunger Logo" width="300" />
+</div>
+</br>
 
 **Zero Hunger** is a web-based platform built in PHP that bridges the gap between food donors and those in need. This application promotes sustainability by managing food surplus and reducing waste effectively. 🌱🍝
 
@@ -33,21 +34,26 @@ Zero Hunger is a comprehensive system to connect food donors and recipients, ali
 ### 🍲 User Functionality
 - **Browse Food**: Explore available donations.  
 - **Request Food**: Submit requests for food items.  
-- **Contact**: Access contact details for inquiries.    
-![Food Listings](SS/user_food_listings.png)  
+- **Contact**: Access contact details for inquiries.
+    
 ![Home Page](SS/home_page.png)
+
+---
 
 ### 📊 Admin Panel
 - **Dashboard**: Comprehensive statistics on states, cities, donors, and requests.  
 - **Location Management**: Add, update, or delete states and cities.  
 - **Donor Management**: Monitor donors and food listings.  
-- **Request Management**: Handle requests and generate reports.  
+- **Request Management**: Handle requests and generate reports.
+
 ![Admin Dashboard](SS/admin_dashboard.png)
+
+---
 
 ### 🧑‍🌾 Donor Panel
 - **Food Listing**: Add surplus food details.  
 - **Request Management**: Track and manage user requests.  
-- **Search**: Locate specific requests via ID.  
+- **Search**: Locate specific requests via ID.
+  
 ![Donor Dashboard](SS/donor_dashboard.png)
 
----
